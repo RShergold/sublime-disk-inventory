@@ -1,0 +1,10 @@
+[
+  {
+    "caption" : "Disk Inventory X",
+    "id" : "disk-inventory-open",
+    "command" : "disk_inventory",
+    "args" : {
+      "paths": []
+    }
+  }
+]
